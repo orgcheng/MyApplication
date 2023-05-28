@@ -40,7 +40,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        // requestPermissions(arrayOf(USE_EXACT_ALARM), 1000)
     }
 
     // 1.保持屏幕常亮
